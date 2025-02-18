@@ -1,0 +1,7 @@
+node_modules
+src
+tests
+*.config.js
+*.config.ts
+*.lock
+*.md
